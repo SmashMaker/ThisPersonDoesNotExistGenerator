@@ -1,5 +1,5 @@
 # :uk: EN :uk:
-A python scrypt to generate random faces from https://thispersondoesnotexist.com
+A python scrypt to generate random faces from https://thispersondoesnotexist.com (~5min / 1k faces)
 ## Features
 - Generate random faces
 - Save faces
@@ -20,7 +20,7 @@ main.py :
 
 
 # :fr: FR :fr:
-Un script python pour générer des visages aléatoires à partir de https://thispersondoesnotexist.com
+Un script python pour générer des visages aléatoires à partir de https://thispersondoesnotexist.com (~5min / 1k visages)
 ## Fonctionnalités
 - Générer des visages aléatoires
 - Sauvegarder les visages
