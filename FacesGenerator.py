@@ -106,7 +106,7 @@ def get_faces(session, url, nb_faces=1, timing=0.30, save_between=False, path_to
         if save_between:
             file_path = create_filename(path_to_save, prefix, i)
             save_image(image, file_path)
-            print(f"Image  saved : {file_path}")
+            print(f"Image saved : {file_path}")
 
 
         # Wait until the timer is done
